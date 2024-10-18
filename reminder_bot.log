@@ -1,0 +1,90 @@
+2024-10-18 02:07:02,643 - INFO - Database connected and table ensured.
+2024-10-18 02:07:17,848 - INFO - Added reminder: 'call david' at 2024-10-18 02:10:17.844105
+2024-10-18 02:07:58,944 - INFO - Updated reminder time for ID 3 to 2024-10-18 02:11:58.880279
+2024-10-18 02:08:12,674 - INFO - Notification sent: 'eat'
+2024-10-18 02:09:24,205 - INFO - Program terminated by user.
+2024-10-18 02:09:24,206 - INFO - Database connection closed.
+2024-10-18 02:22:11,454 - INFO - Database connected and table ensured.
+2024-10-18 02:22:27,015 - WARNING - Failed to parse the reminder time: 'in 15 mintues'
+2024-10-18 02:22:48,697 - INFO - Added reminder: 'call mom' at 2024-10-18 04:22:48
+2024-10-18 02:23:04,832 - INFO - Added reminder: 'call dad' at 2024-10-18 02:33:04
+2024-10-18 02:23:21,588 - INFO - Notification sent: 'call david'
+2024-10-18 02:23:42,161 - INFO - Updated reminder time for ID 2 to 2024-10-18 06:00:00
+2024-10-18 02:23:50,672 - INFO - Deleted reminder ID 2
+2024-10-18 02:30:26,904 - INFO - Program terminated by user.
+2024-10-18 02:30:26,905 - INFO - Database connection closed.
+2024-10-18 02:35:29,519 - INFO - Database connected and table ensured.
+2024-10-18 02:35:52,136 - INFO - Added reminder: 'smoke' at 2024-10-18 02:50:47
+2024-10-18 02:36:28,332 - ERROR - Error adding reminder: table reminders has no column named recurrence
+2024-10-18 02:36:29,532 - ERROR - Error checking reminders: tuple index out of range
+2024-10-18 02:36:48,340 - ERROR - Error viewing reminders: tuple index out of range
+2024-10-18 02:37:04,880 - INFO - Added reminder: 'eat' at 2024-10-18 02:47:00
+2024-10-18 02:37:12,347 - ERROR - Error viewing reminders: tuple index out of range
+2024-10-18 02:37:19,611 - ERROR - Error viewing reminders: tuple index out of range
+2024-10-18 02:37:29,546 - ERROR - Error checking reminders: tuple index out of range
+2024-10-18 02:38:29,557 - ERROR - Error checking reminders: tuple index out of range
+2024-10-18 02:38:39,362 - INFO - Program terminated by user.
+2024-10-18 02:38:39,362 - INFO - Database connection closed.
+2024-10-18 02:40:03,879 - INFO - Database connected and table ensured.
+2024-10-18 02:40:24,509 - INFO - Added reminder: 'eat' at 2024-10-18 02:55:20
+2024-10-18 02:40:49,196 - INFO - Added reminder: 'drink water' at 2024-10-18 08:00:00
+2024-10-18 02:41:18,084 - INFO - Updated reminder text for ID 2: 'take meds'
+2024-10-18 02:46:13,565 - INFO - Program terminated by user.
+2024-10-18 02:46:13,565 - INFO - Database connection closed.
+2024-10-18 02:51:59,824 - INFO - Database connected and table ensured.
+2024-10-18 02:51:59,827 - WARNING - Failed to parse the reminder time: 'invalid time'
+2024-10-18 02:51:59,828 - ERROR - Error adding reminder: '<=' not supported between instances of 'MagicMock' and 'datetime.datetime'
+2024-10-18 02:52:11,186 - INFO - Database connected and table ensured.
+2024-10-18 02:52:11,188 - WARNING - Failed to parse the reminder time: 'invalid time'
+2024-10-18 02:52:11,189 - ERROR - Error adding reminder: '<=' not supported between instances of 'MagicMock' and 'datetime.datetime'
+2024-10-18 02:54:37,509 - INFO - Database connected and table ensured.
+2024-10-18 02:54:37,511 - WARNING - Failed to parse the reminder time: 'invalid time'
+2024-10-18 02:54:37,513 - ERROR - Error adding reminder: '<=' not supported between instances of 'MagicMock' and 'datetime.datetime'
+2024-10-18 02:57:05,547 - INFO - Database connected and table ensured.
+2024-10-18 02:57:13,151 - INFO - Database connected and table ensured.
+2024-10-18 02:57:13,153 - WARNING - Failed to parse the reminder time: 'invalid time'
+2024-10-18 02:57:13,154 - ERROR - Error adding reminder: '<=' not supported between instances of 'MagicMock' and 'datetime.datetime'
+2024-10-18 02:57:16,510 - INFO - Program terminated by user.
+2024-10-18 02:57:16,511 - INFO - Database connection closed.
+2024-10-18 02:58:55,496 - INFO - Database connected and table ensured.
+2024-10-18 03:00:30,749 - INFO - Database connected and table ensured.
+2022-01-01 14:00:00,000 - WARNING - Failed to parse the reminder time: 'invalid time'
+2022-01-01 14:00:00,000 - INFO - Added reminder: 'Test Reminder' at 2022-01-01 14:10:00
+2024-10-18 03:00:39,099 - INFO - Database connected and table ensured.
+2022-01-01 14:00:00,000 - WARNING - Failed to parse the reminder time: 'invalid time'
+2022-01-01 14:00:00,000 - INFO - Added reminder: 'Test Reminder' at 2022-01-01 14:10:00
+2024-10-18 03:01:56,031 - INFO - Database connected and table ensured.
+2022-01-01 14:00:00,000 - WARNING - Failed to parse the reminder time: 'invalid time'
+2022-01-01 14:00:00,000 - ERROR - Error adding reminder: 
+2022-01-01 14:00:00,000 - INFO - Added reminder: 'Test Reminder' at 2022-01-01 14:10:00
+2024-10-18 03:02:04,443 - INFO - Database connected and table ensured.
+2022-01-01 14:00:00,000 - WARNING - Failed to parse the reminder time: 'invalid time'
+2022-01-01 14:00:00,000 - ERROR - Error adding reminder: 
+2022-01-01 14:00:00,000 - INFO - Added reminder: 'Test Reminder' at 2022-01-01 14:10:00
+2024-10-18 03:02:21,022 - INFO - Database connected and table ensured.
+2022-01-01 14:00:00,000 - WARNING - Failed to parse the reminder time: 'invalid time'
+2022-01-01 14:00:00,000 - ERROR - Error adding reminder: 
+2022-01-01 14:00:00,000 - INFO - Added reminder: 'Test Reminder' at 2022-01-01 14:10:00
+2024-10-18 03:31:51,548 - INFO - Database connected and table ensured.
+2024-10-18 03:32:04,603 - INFO - Added reminder: 'take shit' at 2024-10-18 03:47:03
+2024-10-18 03:32:16,855 - INFO - Program terminated by user.
+2024-10-18 03:32:16,855 - INFO - Database connection closed.
+2024-10-18 03:52:23,532 - INFO - Database connected and table ensured.
+2024-10-18 03:52:34,457 - INFO - Added reminder: 'eat' at 2024-10-18 03:54:32
+2024-10-18 03:52:46,700 - INFO - Deleted reminder ID 1
+2024-10-18 03:55:03,135 - INFO - Program terminated by user.
+2024-10-18 03:55:03,136 - INFO - Database connection closed.
+2024-10-18 03:56:03,070 - INFO - Database connected and table ensured.
+2024-10-18 03:56:20,798 - INFO - Added reminder: 'Eat' at 2024-10-18 04:11:19
+2024-10-18 04:01:51,922 - INFO - Program terminated by user.
+2024-10-18 04:01:51,923 - INFO - Database connection closed.
+2024-10-18 04:01:53,743 - INFO - Database connected and table ensured.
+2024-10-18 04:02:18,295 - INFO - Updated reminder ID 1
+2024-10-18 04:02:49,146 - INFO - Updated reminder ID 1
+2024-10-18 04:03:10,750 - INFO - Updated reminder ID 1
+2024-10-18 04:03:41,477 - INFO - Updated reminder ID 1
+2024-10-18 04:04:09,254 - INFO - Updated reminder ID 1
+2024-10-18 04:08:03,876 - INFO - Notification sent: 'drink water'
+2024-10-18 04:08:03,879 - INFO - Deleted reminder ID 1
+2024-10-18 04:10:46,141 - INFO - Program terminated by user.
+2024-10-18 04:10:46,142 - INFO - Database connection closed.
